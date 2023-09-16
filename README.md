@@ -1,2 +1,2 @@
-- 👋 Hi, My name is Marius and Sebastian but I think Sebastian sounds better!
+- 👋 Hi, My name is Marius and Sebastian but I think Sebastian sounds better
 - 👈 Previous [github account](https://github.com/SebastianMB-IT)
