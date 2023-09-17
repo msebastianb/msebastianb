@@ -1,2 +1,3 @@
-- 👋 Hi, My name is Marius and Sebastian but I think Sebastian sounds better
-- 👈 Previous [github account](https://github.com/SebastianMB-IT)
+- 👋 Hi, My name is Marius and Sebastian
+- 💻 I'm interested in web development
+- 👈 This is my previous [github account](https://github.com/SebastianMB-IT)
