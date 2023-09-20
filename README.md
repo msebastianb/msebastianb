@@ -1,3 +1,3 @@
 - 👋 Hi, My name is Marius and Sebastian
-- 💻 I'm interested in web development
-- 👈 This is my previous [github account](https://github.com/SebastianMB-IT)
+- 💻 I'm dedicated to Web Development
+- 👈 This is my previous [account](https://github.com/SebastianMB-IT)
