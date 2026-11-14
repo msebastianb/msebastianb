@@ -1,6 +1,6 @@
 ## 🙋 About me
 
-- 🔭 Building production web platforms end to end — data model, API, UI, and the pipeline that ships them
+- 🔭 Building production web platforms end to end, from the data model and the API to the UI and the pipeline that ships them
 - 🤖 Tinkering with local inference and agentic coding loops that keep the sensitive parts at home
 - 🌱 Going deeper on privacy-first architecture, and on making cheap models do expensive-looking work
 - 💬 Ask me about TypeScript, data modelling at scale, or release pipelines that don't keep you up at night
