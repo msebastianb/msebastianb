@@ -16,6 +16,7 @@
   <img src="assets/github-copilot.svg" width="48" height="48" alt="GitHub Copilot">
   <img src="assets/claude.svg" width="48" height="48" alt="Claude">
   <img src="assets/deepseek.svg" width="48" height="48" alt="DeepSeek">
+  <img src="assets/hermes-agent.svg" width="48" height="48" alt="Hermes Agent">
 </p>
 
 ## 🤖 AI and agentic tooling
