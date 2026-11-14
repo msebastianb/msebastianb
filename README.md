@@ -17,10 +17,6 @@
   <img src="assets/claude.svg" width="48" height="48" alt="Claude">
 </p>
 
-<p align="center">
-<sub>Fastify · Vitest · Playwright · Testcontainers · llama.cpp · MLX</sub>
-</p>
-
 ## 🤖 AI and agentic tooling
 
 - **Local inference on Apple Silicon** — running useful models on a laptop, watching memory, latency and heat instead of GPU hours
