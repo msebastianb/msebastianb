@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/row-infra-ai.svg" width="498" alt="AWS, Terraform, DigitalOcean, Cloudflare, GitHub, GitHub Copilot, Claude, DeepSeek, Hermes Agent">
+  <img src="assets/row-infra-ai.svg" width="723" alt="AWS, Terraform, DigitalOcean, Cloudflare, GitHub, VS Code, GitHub Copilot, Claude, DeepSeek, Hugging Face, LM Studio, Unsloth, Hermes Agent">
 </p>
 
 ## 🤖 AI and agentic principles
