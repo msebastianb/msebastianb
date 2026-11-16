@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/aws.svg" width="48" height="48" alt="AWS"> <img src="assets/terraform.svg" width="48" height="48" alt="Terraform"> <img src="assets/digitalocean.svg" width="48" height="48" alt="DigitalOcean"> <img src="assets/cloudflare.svg" width="48" height="48" alt="Cloudflare"> <img src="assets/github.svg" width="48" height="48" alt="GitHub"> <img src="assets/github-copilot.svg" width="48" height="48" alt="GitHub Copilot"> <img src="assets/claude.svg" width="48" height="48" alt="Claude"> <img src="assets/deepseek.svg" width="48" height="48" alt="DeepSeek"> <img src="assets/hermes-agent.svg" width="48" height="48" alt="Hermes Agent">
+  <img src="assets/row-infra-ai.svg" width="498" alt="AWS, Terraform, DigitalOcean, Cloudflare, GitHub, GitHub Copilot, Claude, DeepSeek, Hermes Agent">
 </p>
 
 ## 🤖 AI and agentic tooling
