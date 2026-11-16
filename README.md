@@ -18,7 +18,7 @@
 
 ## 🤖 AI and agentic principles
 
-- **Local inference on Apple Silicon** — running useful models on a laptop, watching memory, latency and heat instead of GPU hours
+- **Local inference** — running useful models on a laptop, watching memory, latency and heat instead of GPU hours
 - **Agentic coding loops** — a strong model writes the plan and the acceptance checks, cheap models do the implementation, and executable checks decide when a task is really done
 - **Privacy by default** — prompts, logs and personal data staying on the machine they came from, which is usually the whole point
 - **Small tools, no dependencies** — Python and shell scripts that do one job, read easily, and don't need a platform to run
