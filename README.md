@@ -16,7 +16,7 @@
   <img src="assets/row-infra-ai.svg" width="498" alt="AWS, Terraform, DigitalOcean, Cloudflare, GitHub, GitHub Copilot, Claude, DeepSeek, Hermes Agent">
 </p>
 
-## 🤖 AI and agentic tooling
+## 🤖 AI and agentic principles
 
 - **Local inference on Apple Silicon** — running useful models on a laptop, watching memory, latency and heat instead of GPU hours
 - **Agentic coding loops** — a strong model writes the plan and the acceptance checks, cheap models do the implementation, and executable checks decide when a task is really done
