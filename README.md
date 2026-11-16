@@ -9,15 +9,11 @@
 ## 🧰 Technologies I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,remix,docker,aws,terraform,postgres,mongodb,nginx,githubactions,python,bash,apple,linux,git&perline=16" alt="TypeScript, Node.js, React, Remix, Docker, AWS, Terraform, PostgreSQL, MongoDB, nginx, GitHub Actions, Python, Bash, macOS, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,remix,docker,postgres,mongodb,nginx,githubactions,python,bash,apple,linux,git&perline=14" alt="TypeScript, Node.js, React, Remix, Docker, PostgreSQL, MongoDB, nginx, GitHub Actions, Python, Bash, macOS, Linux, Git">
 </p>
 
 <p align="center">
-  <img src="assets/digitalocean.svg" width="48" height="48" alt="DigitalOcean">
-  <img src="assets/github-copilot.svg" width="48" height="48" alt="GitHub Copilot">
-  <img src="assets/claude.svg" width="48" height="48" alt="Claude">
-  <img src="assets/deepseek.svg" width="48" height="48" alt="DeepSeek">
-  <img src="assets/hermes-agent.svg" width="48" height="48" alt="Hermes Agent">
+  <img src="assets/aws.svg" width="48" height="48" alt="AWS"> <img src="assets/terraform.svg" width="48" height="48" alt="Terraform"> <img src="assets/digitalocean.svg" width="48" height="48" alt="DigitalOcean"> <img src="assets/cloudflare.svg" width="48" height="48" alt="Cloudflare"> <img src="assets/github.svg" width="48" height="48" alt="GitHub"> <img src="assets/github-copilot.svg" width="48" height="48" alt="GitHub Copilot"> <img src="assets/claude.svg" width="48" height="48" alt="Claude"> <img src="assets/deepseek.svg" width="48" height="48" alt="DeepSeek"> <img src="assets/hermes-agent.svg" width="48" height="48" alt="Hermes Agent">
 </p>
 
 ## 🤖 AI and agentic tooling
